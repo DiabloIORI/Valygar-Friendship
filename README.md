@@ -14,7 +14,6 @@ Baldur's Gate Trilogy and EET<h3>
 
 
 **Authors:** Lava Del'Vortel, fluke13 and many other great people  
-**Mod Website:** <a href="http://www.spellholdstudios.net/ie/npciep">Spellhold Studios</a>  
 **Mod Forum:** <a href="http://www.shsforums.net/forum/667-valygar-friendship">Valygar Friendship</a><br><br>
 
 ## 
@@ -48,7 +47,7 @@ One of the things many find sorely lacking in the Bioware NPCs are the more comp
 This mod adds a series of dialogues with Valygar.
 
 
-Visit the <a href="http://www.spellholdstudios.net/ie/npciep">website</a> or <a href="http://www.shsforums.net/forum/667-valygar-friendship">forum</a> for all the latest updates.
+Visit the <a href="http://www.shsforums.net/forum/667-valygar-friendship">forum</a> for all the latest updates.
 
 
 <hr>
